@@ -2,7 +2,7 @@ Summary:	Hugs 98: The Nottingham and Yale Haskell system
 Name:		hugs98
 Version:	20060920
 %define real_ver Sep2006
-Release:	%mkrel 6
+Release:	%mkrel 7
 Source0:	http://cvs.haskell.org/Hugs/downloads/hugs98-%{real_ver}.tar.bz2
 Source2:	http://haskell.cs.yale.edu/haskell-mode/haskell-mode-1.44.tar.bz2
 Url:		http://www.haskell.org/hugs/
