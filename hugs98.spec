@@ -5,7 +5,7 @@ Version:	20060920
 Release:	%mkrel 7
 Source0:	http://cvs.haskell.org/Hugs/downloads/hugs98-%{real_ver}.tar.bz2
 Source2:	http://haskell.cs.yale.edu/haskell-mode/haskell-mode-1.44.tar.bz2
-Url:		http://www.haskell.org/hugs/
+Url:		https://www.haskell.org/hugs/
 License:	Artistic
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:	ncurses-devel readline-devel
